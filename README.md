@@ -11,6 +11,7 @@ TODO:
   + Meeting name/id *
   + Confetti
   + Joining notification
+  + Video Priority *
 - Meeting page nav bar:
   + Mute/unmute button *
   + Volume on/off *
