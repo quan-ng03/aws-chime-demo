@@ -1,5 +1,5 @@
 TODO:
-- Preview audio/video input
-- Meeting page UI
-- Meeting local audio/video input
-- Meeting remote audio/video input
+- Audio/video input [DONE]
+- Meeting page UI 
+- Meeting local audio/video input [DONE]
+- Meeting remote audio/video input [DONE]
